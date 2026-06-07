@@ -9,27 +9,23 @@ DDDM Projet/
 |
 |-- analysis_business/
 |   |-- notebooks/
-|   |   `-- 01_analysis_business.ipynb
-|   |-- reports/
-|   `-- README.md
+|   |   `-- analysis_business.ipynb
 |
 |-- ml_dashboard/
 |   |-- notebooks/
-|   |   `-- 02_ml_modeling.ipynb
+|   |   `-- ml_modeling.ipynb
 |   |-- dashboard/
 |   |   `-- app.py
-|   |-- reports/
-|   |   |-- AB_Test_Plan_DDDM.docx
-|   |   `-- presentation_data_story.pdf
-|   `-- README.md
+|
+|-- reports/
+|   |-- AB_Test_Plan_DDDM.docx
+|   `-- presentation_data_story.pdf
 |
 |-- shared_data/
 |   |-- Customers.csv
 |   |-- data_Orders.csv
-|   `-- README.md
 |
 |-- requirements.txt
 |-- README.md
 `-- .gitignore
 ```
-
